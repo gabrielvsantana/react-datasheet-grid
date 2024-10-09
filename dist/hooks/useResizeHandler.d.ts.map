@@ -1,0 +1,1 @@
+{"version":3,"file":"useResizeHandler.d.ts","sourceRoot":"","sources":["../../src/hooks/useResizeHandler.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAE9B,MAAM,WAAW,oBAAoB;IACnC,MAAM,CAAC,EAAE,CAAC,MAAM,CAAC,EAAE,MAAM,KAAK,IAAI,CAAA;IAClC,SAAS,CAAC,EAAE,MAAM,IAAI,CAAA;CACvB;AAED,eAAO,MAAM,eAAe,2BAGzB,oBAAoB,KAAG,MAAM,SAAS,CAAC,cAAc,CAgDvD,CAAA"}
